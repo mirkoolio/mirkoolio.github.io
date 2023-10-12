@@ -1,10 +1,12 @@
 ITALICS AND BOLD
+
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 HEADERS
+
 # Header one
 ## Header two
 ### Header three
@@ -16,6 +18,7 @@ HEADERS
 Here's some words about the book _One Hundred Years..._.
 
 LINKS
+
 [Search for it.](www.google.com)
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 #### The Latest News from [the BBC](www.bbc.com/news)
@@ -26,7 +29,9 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]:www.zombo.com
 
 [another fun place]:www.stumbleupon.com
+
 IMAGES
+
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 ![Black cat][Black]
 
@@ -37,6 +42,7 @@ IMAGES
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 BLOCKQUOTES
+
 I read this interesting quote the other day:
 
 >"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
@@ -48,6 +54,7 @@ I read this interesting quote the other day:
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
 LISTS
+
 * Flour
 * Cheese
 * Tomatoes
@@ -76,6 +83,7 @@ LISTS
    For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
    PARAGRAPHS
+   
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
 Nor did it occur to one of us there  
